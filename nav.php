@@ -20,7 +20,7 @@
           <a class="nav-link fw-bold" href="libros.php">Libros</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link fw-bold" aria-current="page" href="/libreria">Autores</a>
+          <a class="nav-link fw-bold" aria-current="page" href="autores.php">Autores</a>
         </li> <li class="nav-item">
           <a class="nav-link fw-bold" aria-current="page" href="solicitud.php">Solicitar</a>
         </li>
