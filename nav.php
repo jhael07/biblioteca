@@ -10,12 +10,12 @@
   <div class="container d-flex justify-content-between">  
 
 
- <a class="navbar-brand text-white logo p-1 rounded px-2" href="/libreria">Biblioteca JR</a>
+ <a class="navbar-brand text-white logo p-1 rounded px-2" href="/">Biblioteca JR</a>
    
 
 
     <div class="" id="navbarNav">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav container">
         <li class="nav-item">
           <a class="nav-link fw-bold" href="libros.php">Libros</a>
         </li>
